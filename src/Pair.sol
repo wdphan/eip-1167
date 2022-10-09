@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
-import "@openzeppelin/contracts/proxy/utils/Initializable.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "/Users/williamphan/Desktop/Developer/eip-1167/lib/openzeppelin-contracts/contracts/proxy/utils/Initializable.sol";
+import "/Users/williamphan/Desktop/Developer/eip-1167/lib/openzeppelin-contracts/contracts/access/Ownable.sol";
 
 pragma solidity ^0.8.0;
 
